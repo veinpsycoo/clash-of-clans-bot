@@ -52,9 +52,11 @@ A 1-day free trial code and step-by-step setup guide are on the download page.
 
 ## Screenshots
 
-| Settings | Status | Limits |
+Current version: **0.1-1114s**
+
+| PC panel | Android app | Android settings |
 |---|---|---|
-| ![coc bot settings](img/en-settings.webp) | ![coc bot status](img/tr-durum.webp) | ![coc bot limits](img/tr-limitler.webp) |
+| ![Clash of Clans bot PC panel](https://clashofclansbot.com/assets/panel/pc2-en.webp) | ![CoC bot Android app start stop](https://clashofclansbot.com/assets/panel/app2-top-en.webp) | ![CoC bot Android settings](https://clashofclansbot.com/assets/panel/app2-set-en.webp) |
 
 ## Telegram control
 
